@@ -1,6 +1,6 @@
 # Como implementei login com autenticação de usuários
 
-Desenvolver o login com autenticação foi uma parte do [projeto](link) que estou desenvolvendo para aprender programação! A estruturação foi bem desafiadora para os meus conhecimentos de iniciante, então criei este repositório para compartilhar o que funcionou pra mim :smiley:
+Desenvolver o login com autenticação foi uma parte do [projeto](https://github.com/malufell/meu-caderno-de-receitas) que estou desenvolvendo para aprender programação! A estruturação foi bem desafiadora para os meus conhecimentos de iniciante, então criei este repositório para compartilhar o que funcionou pra mim :smiley:
 
 Parte dos meus estudos é didicada a escrever e compartilhar o que estou aprendendo, então compartilho aqui também o texto onde registrei o que aprendi. 
 
