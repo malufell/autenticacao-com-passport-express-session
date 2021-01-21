@@ -94,7 +94,9 @@ No arquivo `config.json` da pasta "config" é necessário atualizar as informaç
 
 ## Tutorial
 
-Em textos anteriores compartilhei como aprendi o fluxo de informações entre o usuário e o back end. Partindo disto, meu próximo passo no projeto foi implementar a solução de login.
+- Já documentei em outros textos qual a base necessária para implementar uma aplicação com nodeJS, utilizando o sequelize e postgres (e eu consulto esses registros sempre que preciso iniciar um novo projeto 😊). Caso necessário, aqui tem um [passo-a-passo bem objetivo](https://github.com/malufell/paginacao/blob/master/README.md#implementar-a-base-da-aplica%C3%A7%C3%A3o) com a base para iniciar um projeto, desde a inicialização do servidor até a criação dos registros de teste no banco de dados!
+
+- No texto ["Interagindo com o usuário - método POST e findOne (sequelize)!"](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne) eu compartilhei como aprendi o fluxo de informações entre o usuário e o back end. Partindo disto, meu próximo passo no projeto foi implementar a solução de login.
 
 Minha frustração com essa etapa começou porque a documentação do passport reforça o quanto é simples implementar a autenticação, mas com meu background de iniciante, não foi assim tão simples não :cold_sweat: 
 
