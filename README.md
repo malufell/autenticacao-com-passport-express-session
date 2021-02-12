@@ -121,7 +121,7 @@ Minha frustração com essa etapa começou porque a documentação do passport r
 Busquei nos templates do bootstrap uma solução para a minha tela de login e encontrei [este modelo aqui](https://getbootstrap.com/docs/4.5/examples/sign-in/). Feito o download (HTML e CSS), fiz as adaptações necessárias da seguinte forma:
 
 - Busquei uma imagem de usuário para utilizar na tela de login e fiz a edição do texto conforme o que eu gostaria de exibir aos meus futuros usuários :sunglasses:
-- Configuei o método POST do formulário;
+- Configurei o método POST do formulário;
 - Configurei a `div` que receberia as mensagens de erro durante as tentativas de login:
 
 ```ejs
